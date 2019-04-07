@@ -1,11 +1,15 @@
 # To Use
 `yarn install`
+
 `yarn start`
+
 Navigate to http://localhost:1234
 
 # To build
 `yarn install`
+
 `yarn build`
+
 Check `/dist` folder for outputs.
 
 # What?
