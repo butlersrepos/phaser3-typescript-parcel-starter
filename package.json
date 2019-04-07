@@ -1,0 +1,17 @@
+{
+  "name": "phaser3-typescript-parcel-starter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.4.2"
+  },
+  "dependencies": {
+    "phaser": "3.16.2"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
