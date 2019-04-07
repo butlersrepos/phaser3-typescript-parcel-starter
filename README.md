@@ -14,7 +14,7 @@ Navigate to http://localhost:1234
 Check `/dist` folder for outputs.
 
 ## What?
-This is a starter project for working with [Phaser 3](https://phaser.io/) using [Typescript](https://www.typescriptlang.org/) and [Parcel](https://parceljs.org/).
+This is a *client-side only* starter project for working with [Phaser 3](https://phaser.io/) using [Typescript](https://www.typescriptlang.org/) and [Parcel](https://parceljs.org/). Host your assets on absolute URLs or add in your own backend implementation.
 
 ## How?
 This has the typedefs built from phaser's docs repo + their source repo and committed to this project.
